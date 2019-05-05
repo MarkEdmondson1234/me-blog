@@ -1,0 +1,4 @@
+baseURL = "http://www.markedmondson.me/"
+languageCode = "en-us"
+title = "Mark Edmondson - Personal Blog"
+theme = "mediumish-gohugo-theme"
