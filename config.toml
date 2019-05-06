@@ -2,3 +2,22 @@ baseURL = "http://www.markedmondson.me/"
 languageCode = "en-us"
 title = "Mark Edmondson - Personal Blog"
 theme = "mediumish-gohugo-theme"
+copyright = "Mark Edmondson - All rights reserved"
+
+[params.author]
+  name = "Mark Edmondson"
+  description = "An Englishman in Denmark"
+
+[params.social]
+  github = "MarkEdmondson1234"
+  linkjedin = "markpeteredmondson"
+  twitter = "HoloMarkeD"
+
+[params.index]
+  picture = "/images/author.jpg"
+  title = "Mark Edmondson"
+  subtitle = "An Englishman in Denmark"
+  mdtext = '''Collection of thoughts for posterity.  \
+**For code related posts please visit https://code.markedmondson.me**\
+'''
+  alertbar = true
