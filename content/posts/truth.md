@@ -2,6 +2,7 @@
 title: "The Truth According to Me"
 date: 2019-05-05T20:04:28+02:00
 image: "/images/posts/the-golden-ratio.jpg"
+tags: ["science"]
 ---
 
 I feel a need for a line in the sand on what I think is true.
