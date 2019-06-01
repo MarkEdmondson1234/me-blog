@@ -1,24 +1,59 @@
 baseURL = "http://www.markedmondson.me/"
 languageCode = "en-us"
 title = "Mark Edmondson - Personal Blog"
-theme = ["mediumish-gohugo-theme"]
+theme = ["mark-custom","mediumish-gohugo-theme"]
 copyright = "Mark Edmondson - All rights reserved"
 publishDir = "docs"
+googleAnalytics = "UA-47480439-2"
+disqusShortname = "markedmondson"
+
+[params]
+  logo = "/images/green-hand.png"
+  description = "An Englishman in Denmark"
 
 [params.author]
   name = "Mark Edmondson"
+  thumbnail = "/images/gde_avatar.jpg"
   description = "An Englishman in Denmark"
 
 [params.social]
   github = "MarkEdmondson1234"
-  linkjedin = "markpeteredmondson"
+  linkedin = "markpeteredmondson"
   twitter = "HoloMarkeD"
 
 [params.index]
-  picture = "/images/author.jpg"
+  picture = "/images/gde_avatar.jpg"
   title = "Mark Edmondson"
   subtitle = "An Englishman in Denmark"
   mdtext = '''Collection of thoughts for posterity.  \
-**For code related posts please visit https://code.markedmondson.me**\
+
+Contact: mark [at] markedmondson.me 
 '''
   alertbar = true
+
+## Main Menu
+[[menu.main]]
+    name = "Personal"
+    weight = 100
+    identifier = "blog"
+    url = "/posts"
+[[menu.main]]
+    name = "Code"
+    weight = 100
+    identifier = "code"
+    url = "https://code.markedmondson.me"
+[[menu.main]]
+    name = "Contact"
+    identifier = "about"
+    weight = 200
+    url = "/"
+[[menu.main]]
+    name = "Presentations"
+    identifier = "present"
+    weight = 200
+    url = "/static/presentations"
+[[menu.main]]
+    name = "Old Posts (pre-2019)"
+    identifier = "archive"
+    weight = 200
+    url = "https://markedmondson.me"
