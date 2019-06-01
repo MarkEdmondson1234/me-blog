@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Mark Edmondson - All rights reserved</copyright>
+    <lastBuildDate>Sun, 05 May 2019 20:04:28 +0200</lastBuildDate>
     
 	<atom:link href="http://www.markedmondson.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>science</title>
+      <link>http://www.markedmondson.me/tags/science/</link>
+      <pubDate>Sun, 05 May 2019 20:04:28 +0200</pubDate>
+      
+      <guid>http://www.markedmondson.me/tags/science/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

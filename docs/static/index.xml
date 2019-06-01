@@ -13,12 +13,13 @@
     
     
     <item>
-      <title>Imprint</title>
+      <title>Mark Edmondson Presentations</title>
       <link>http://www.markedmondson.me/static/presentations/</link>
       <pubDate>Sun, 07 Oct 2018 11:12:00 +0200</pubDate>
       
       <guid>http://www.markedmondson.me/static/presentations/</guid>
-      <description>Imprint Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tortor dui, fermentum non dapibus id, volutpat non odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas fringilla tempus urna ac laoreet. Curabitur sed bibendum lectus. Vivamus gravida venenatis porttitor.</description>
+      <description>Presentation links Gathering in one place links to presentations I&amp;rsquo;ve made over the years.
+ R at scale on the Google Cloud Platform - CopenhagenR, 2019-05-19 Man vs Machine - Superweek 2019 and Web Analytics Wednesday Copenhagen - 2019-02-01 #rstats lessons for #measure - Digital Analytics Congres, Utrecht. 2018-10-09 Beyond the Cloud with Digital Analytics - Web Analytics Wednesday Copenhagen. 2018-02-21 Is BigQuery the answer to all analytics prayers? - MeasureCamp Copenhagen.</description>
     </item>
     
   </channel>
