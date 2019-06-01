@@ -12,7 +12,7 @@ As defined by Popper, to differentiate between subjective and objective truths, 
 
 ## 2. The many-worlds interpretation of Quantum Mechanics
 
-This is not proven, but I believe it to be true through arguments by Deutch, Everett, and Green. Stationary solutions of quantum mechanics give the result that each moment we experience is one of a multitude of universes, and the next moment in time is another universe that is very similar but with slightly more entropy.
+This is not proven, but I believe it to be true through arguments by Deutsch, Everett, and Green. Stationary solutions of quantum mechanics give the result that each moment we experience is one of a multitude of universes, and the next moment in time is another universe that is very similar but with slightly more entropy.
 
 ## 3. There is no such thing as Mind-Body Dualism
 
