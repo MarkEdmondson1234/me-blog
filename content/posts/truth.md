@@ -1,7 +1,7 @@
 ---
 title: "The Truth According to Me"
 date: 2019-05-05T20:04:28+02:00
-type: "post"
+image: "/images/posts/the-golden-ratio.jpg"
 ---
 
 I feel a need for a line in the sand on what I think is true.
