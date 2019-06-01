@@ -25,9 +25,8 @@ disqusShortname = "markedmondson"
   picture = "/images/gde_avatar.jpg"
   title = "Mark Edmondson"
   subtitle = "An Englishman in Denmark"
-  mdtext = '''Collection of thoughts for posterity.  \
-
-Contact: mark [at] markedmondson.me 
+  mdtext = '''
+  Contact: mark [at] markedmondson.me 
 '''
   alertbar = true
 
