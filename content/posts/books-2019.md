@@ -1,7 +1,7 @@
 ---
 title: "Book reviews - 2019"
 date: 2019-12-29T12:16:28+02:00
-image: "/images/posts/books.jpg"
+image: "/images/posts/goodreads2019.png"
 tags: ["books"]
 ---
 
