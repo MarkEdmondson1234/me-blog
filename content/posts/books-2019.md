@@ -5,11 +5,13 @@ image: "/images/posts/goodreads2019.png"
 tags: ["books"]
 ---
 
-I had a GoodReads challenge to read 24 books this year, I didn't quite make it but I did read very big books.  I will try to read smaller books in 2020 :)
+I had a [GoodReads](https://www.goodreads.com/user/show/7158351-mark) challenge to read 24 books this year, I didn't quite make it but I did read very big books.  I will try to read smaller books in 2020 :)
 
 ## My top fiction books of 2019
 
 ### Exhalation by Ted Chiang
+
+https://www.goodreads.com/book/show/46347126-exhalation
 
 Sanne first introduced Ted Chiang's first book of sci-fi short stories, *Stories of Your Life and Others* as it was the source of one of our favourite films, *Arrival*.  His blend of hard sci-fi, alternate histories and economical story-telling offers stories that both entertain and make you think about our possible futures.
 
@@ -17,11 +19,15 @@ His newest book *Exhalation* continued with some very interesting themes that ha
 
 ### Anathem by Neal Stephenson
 
+https://www.goodreads.com/book/show/11218177-anathem
+
 Reading around topics about multiverses were a theme this year in non-fiction reads by me, but this novel was one of the most satisfying in examining the meta-physics around what multiverses could actually look like, since the author did his multiverse research from a philosophic and physics angle.  
 
 Wrapped up in a world close to but different from our own, the story builds up slowly but surely from a base of monastic scientists cut off from the secular world after some Dark ages dystopia has rejected them from main society, with some orders only opening their doors every 1000 years.  The protagonist belongs to a less extreme order that opens up its doors every 10 years, but after a visit from another universe prompts a journey, the story quickly evolves into a trip through convincing arguments and action sequences.  Worth sticking with from what seems a slow start seems like a consensus on the reviews.
 
 ### The New York Trilogy by Paul Auster
+
+https://www.goodreads.com/book/show/6553369-the-new-york-trilogy
 
 Looking for a read on my first visit to New York this book was also recommended by Sanne and it turned out to be one of my favourites this year. 
 
@@ -33,6 +39,8 @@ I would categorise the book as "high culture" that I try to read a couple of eac
 
 ### The Rise and Fall of the Third Reich by William L. Shirer and Ron Rosenbaum
 
+https://www.goodreads.com/book/show/31110480-the-rise-and-fall-of-the-third-reich
+
 I thought I would read this in response to the accusations that facisim is on the rise again in the politics of 2019.  I have to say after reading this book (which is very long and took a good few weeks) I am a little more optimistic that we are not heading down the same road as the 1930s since the circumstances and the people involved are very different.  Not to say we shouldn't learn from the history but my impression is that the 1930s economics and humilation of the German nation, coupled with the twisted rhetoric genius of Hitler have little in common with the circumstances we find ourselves in today.  
 
 The politicians today whom are compared to Hitler are frankly a lot less cunning.  But see the next book on a more compelling take on today's politics. 
@@ -42,6 +50,8 @@ It is horrific to read what happened but it is only with hindsight we can say we
 One niggle was that the author's own prejudices did sometimes come through in the text, history is one of those fields were objective facts are slippery and the subjectivity of the historian needs to be examined.  Overall though the sources were well researched with one benefit of Nazi efficiency meaning lots of original documents could be used to record what was said vs what was actually being done or felt during those key moments in the build up to the war. 
 
 ### The Future of Capitalism by Paul Collier
+
+https://www.goodreads.com/book/show/42082320-the-future-of-capitalism
 
 This I found via Bill Gates' reading lists.
 
