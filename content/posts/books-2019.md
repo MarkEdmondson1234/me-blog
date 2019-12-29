@@ -59,7 +59,7 @@ It offers a good sounding theory on why we are experiencing seemingly increasing
 
 It made me acknowledge that the causes are from both sides of the fence.  Whilst the rise of intolerance, racisim, anti-experts and anti-science language is something to be pushed back upon, it is in reaction to the elitisim, entitlement and arrogance of the world's "better-offs" that we must be responsible for.  And those "better-offs" are not the 1%s, but roughly 50% of population who are metropolitian, anti-nationalistic, supposedly tolerant, right-on people.  It is me, my peers and probably you if you are reading this. 
 
-Consider the most reviled group of people for the 'tolerant liberals' - poor, uneducated white people.  Rednecks, chavs, townies, essex lads.  People who are not minorities, but are still not successful as deemed by a meritocricy that necessarily places 50% of people below average. 
+Consider the most reviled group of people for the 'tolerant liberals' - poor, uneducated white people.  Rednecks, chavs, townies, essex lads.  People who are not minorities, but are still not successful as deemed by a meritocracy that necessarily places 50% of people below average. 
 
 Collier's theory of why we have stratified into two groups covers the concept that for every right you grant, obligations fall disproportionality onto this less privileged class.  And whilst in the past both groups got their sense of self-worth from nationalistic pride (such as just after WWII), as time and technologic progress has advanced, people have specialised into more and more specialised fields and have gravitated to the big metropoles (London, New York, San Francisco, Copenhagen) leaving the more industrial areas to wither.  At the same time, those people have moved away from self-worth achieved via nationalism and more to how well they do at their jobs.  
 
@@ -69,6 +69,6 @@ Anyhow, read the book if you're interested in the argument, I'm probably not doi
 
 ## Summary
 
-Reading is the best antidote I have to the flighty, superficial trends of social media, which I do value for day-to-day work and trends, but nothing beats having a pause to deep-dive into a subject deeply.  I adore my Kindle, and I hope writing this will encourage me to read more in 2020.  I will try audio books, they seems a good way to start racking up a lot.  But please do join me on GoodReads if you would like to see some of the notes and reviews of the other books I have read over the years.
+Reading is the best antidote I have to the flighty, superficial trends of social media, which I do value for day-to-day work and trends, but nothing beats having a pause to deep-dive into a subject.  I adore my Kindle, and I hope writing this will encourage me to read more in 2020.  I will try audio books, they seems a good way to start racking up a lot.  But please do [join me on GoodReads](https://www.goodreads.com/user/show/7158351-mark) if you would like to see some of the notes and reviews of the other books I have read over the years.
 
 
