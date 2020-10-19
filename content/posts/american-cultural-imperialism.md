@@ -1,6 +1,6 @@
 ---
 title: "American cultural imperialism via American social media platforms"
-date: 2020-10-29T11:14:28+02:00
+date: 2020-10-19T11:14:28+02:00
 image: "/images/posts/american-imperialism.jpg"
 tags: ["culture"]
 ---
