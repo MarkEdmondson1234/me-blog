@@ -6,6 +6,7 @@ date: 2018-10-07T11:12:00+02:00
 
 Gathering in one place links to presentations I've made over the years.
 
+* [Use Cases for R in the Cloud](https://code.markedmondson.me/usecases-r-gcp.html) - an online webinar for an Australian Web Analytics Wednesday with Moe Kiss, showing how I'm using R in the Google Cloud in October 2020.
 * [Evolving R with Docker and the Cloud](https://code.markedmondson.me/r-20.html) - Rv1.0.0's 20th Birthday celebRation, Copenhagen 2020-02-29
 * [R at scale on the Google Cloud Platform](http://code.markedmondson.me/r-at-scale-gcp.html) - CopenhagenR, 2019-05-19
 * [Man vs Machine](https://www.dropbox.com/s/8mnw5mhficv6k0k/superweek2019.pdf?dl=0) - Superweek 2019 and Web Analytics Wednesday Copenhagen - 2019-02-01
