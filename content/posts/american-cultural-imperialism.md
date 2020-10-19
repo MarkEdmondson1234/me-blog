@@ -1,14 +1,15 @@
 ---
 title: "American cultural imperialism via American social media platforms"
 date: 2020-10-29T11:14:28+02:00
-image: "/images/posts/goodreads2019.png"
+image: "/images/posts/american-imperialism.png"
 tags: ["culture"]
 ---
+
+**Image based on Raising the Flag on Iwo Jima [By Joe Rosenthal](https://apnews.com/article/f00e1181d57a414a848ac96b772839fd)**
 
 Emigrating from the UK to Denmark has given me a lot, but one unexpected insight is how the structural setup of a country affects the values that filter down to its citizens.  On the surface Denmark and the UK are similar countries but after 10 years living in another's framework I have come to appreciate the subtle differences.  When I'm asked about the prime difference now I sum it up in "Trust", from which flows Danish contentment and enfranchisement of its citizens.
 
 The next surprise was how Denmark is referenced from the UK.  It's generally a positive view embodying hygge, sophistication and high contrast detective TV programs, but once comment start about its government and society I realised they were views given only in the context of how the UK regards itself - perspectives on Denmark's policing and social welfare policy are only known in relation to how the UK solves them, and not given the context on how Denmark in general operates.  
-
 An example of this was the Covid19 response debates in the UK, where Danish school policy of returning kids to school was pointed at as justification for the UKs response.  The context that Danes in general were a lot more respectful of their governments advice on Covid19; that it was more likely both parents worked in Denmark due to generous child-care allowances; local lockdowns had started a lot earlier so keeping cases lower; and that such openings had been negotiated with the teacher unions who are much more respected that in the UK, were all subtleties that were alien to the UK debate.  Again, trust in one another is a theme that ties the Danish response together, whereas the default position of the average UK citizen to its government would be more akin to cynicism. 
 
 And so it goes whenever Denmark is referred to within the United States political debate.  Both positive and negative representations of Denmark are always tinged with how the Americans see themselves, and given American exceptionalism it seems to always expect the world to be worried about the same things they are, as "leaders of the free world".  It follows that it must also be the same the other way: Danish solutions to American problems are thought of in the context of Danish culture.  Both directions can inform, but neither will work exactly the same as it did in its original country.  
