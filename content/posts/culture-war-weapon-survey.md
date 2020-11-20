@@ -9,7 +9,7 @@ tags: ["culture", "politics"]
 
 Culture wars have always been around, but nowadays social media has enabled the ability to scale them out to an unprecedented degree.  The structure of how content is shared means exposure is possible on a global scale, as well as there being more data available on how consumers can be influenced.  The [values of the (American) social media platforms](https://www.markedmondson.me/posts/american-cultural-imperialism/) also feature, influenced by their own economics, philosophies and governments.  
 
-These platforms are not healthy for political debate as I will argue below, a belief that means I work to actively avoid politics on those platforms by unfollowing or blocking political activity.  However, I sacrifice the impression that I do care about those issues, so this article explains some of my reasons on why I think social media and politics are a bad combination.
+These platforms are not healthy for political debate as I will argue below, a belief that means I work to avoid politics on those platforms by unfollowing or blocking political activity.  However, I sacrifice the impression that I care about those issues, so this article explains some of my reasons on why I think current social media and politics are a bad combination.
 
 ## Symptoms of a dysfunctional political debate
 
@@ -25,9 +25,9 @@ This means a lot of online 'discussion' is essentially useless for aims of chang
 
 I argue that engaging in these attacks are a problem in itself, as a principal must be that political compromise and listening to others point of view is a necessary first step to create a stronger society for all.  Until we have the ability for everyone to live in personalised universes that match our newsfeeds, we must find ways to co-exist.  This is not to say that truths must always be 'other sided' with lies.  But it does demand that we examine why the other side exists beyond "they are stupid", and to identify the reasons how they arrived at that position.  Co-existence is obviously not achieved by thinking the other side is "evil" and your point of view must be imposed on them for their own self-good. 
 
-This is also not healthy for your own side. Peer policing exists and those in the centre are most at risk at not keeping up with the current party line, for which means failure to will leave you branded as a conspirator. This encourages the default positions to get more and more extreme - the Brexiteer's movement to more and more hard versions of Brexit over time is an example.
+This is also not healthy for your own side. Peer policing exists and those in the centre are most at risk at not keeping up with the current party line, the penalty for failure leaving you branded as a conspirator. This encourages default positions to get more and more extreme - the Brexiteer's movement to harder versions of Brexit over time is an example.
 
-This has left a widening political centre that is less vocal than those on the extreme wings in the fear they will be branded as an outsider (see ['cancel culture'](https://harpers.org/a-letter-on-justice-and-open-debate/)), weakening society as minority views become louder, disregarding the silent central majority.  
+This has left a widening political centre that is less vocal than those on the extreme wings in the fear they will be branded as an outsider (see ['cancel culture'](https://harpers.org/a-letter-on-justice-and-open-debate/)), a weakening society as minority views become louder and existing institutions get discredited and a disregarding of a silent central majority.  
 
 Another example are the Trump and Brexit votes from 2016.  An outraged Left could not see why someone on the Right would want to vote for such disruptive changes, as they believed the majority were benefiting from the status-quo, and the media agreed.  
 
@@ -51,15 +51,16 @@ This is a tough list to try to curate from a neutral, central point of view and 
 
 **I'm not naive enough to say that there are not people with extremist positions alluded to in the slurs, but my point is to amplify and label everyone on the 'other side' to those extreme positions is the abandoning of the centre, consensus politics that is needed to improve society.**
 
-> Quotes are examples I've taken from social media
+> Quotes are actual examples I've taken from social media
 
 Naturally I do not necessarily agree with any of the quotes, they are used as illustrations.
 
 ### Left weapons for use on the Right
 
+* **Stupid racist** - A problem when discussing immigration policies is the automatic labelling or people who ddon't want free movement as racist. When towns with rapidly changing populations of different cultures had integration problems, expressing concerns but to be shut down as being racist undoubtedly drove resentment.
+
 > That leader is a dysfunctional, philandering, profiteering, misleading, embarrassing, alcoholic, racist slob & that applies to his imbecilic cohorts too
 
-* **Stupid racist** - A problem when discussing immigration policies is the automatic labelling or people who ddon't want free movement as racist. When towns with rapidly changing populations of different cultures had integration problems, expressing concerns but to be shut down as being racist undoubtedly drove resentment.
 * **Nazi / Fascist** - Used by both sides, for the left this is usually for moves perceived to move towards police state or authoritarian government
   
 > Every school student should have to see “Rise of the Nazi’s”   So similar to his rise to power it’s very scary.  Civics should be mandatory
@@ -166,7 +167,7 @@ Online talk is always different from in-person interaction.  Getting to know the
 
 Talk about these things in person, with differing points of view respected.  Hearing someone talk doesn't mean you have to agree with what they said.  To gain trust in one another we need to interact beyond words on a screen, and remember that we are all humans struggling with our own existence, with a lot more in common than differences between us. 
 
-Perspectives that bind us together, such as a shared culture are lacking these days in the personalised media world we are in now - the greatest effect in the end may have to be driven by the social media companies themselves, which if they truly have a mission of 'making the world a better place' as their silicon valley ethos is supposed to believe, will do so willingly without the need for governments to step in, how may be powerless to do so if the culture wars continue to escalate. We are in their hands. 
+Perspectives that bind us together, such as a shared culture are lacking these days in the personalised media world we are in now - the greatest effect in the end may have to be driven by the social media companies themselves, which if they truly have a mission of 'making the world a better place' as their silicon valley ethos is supposed to believe, will do so willingly without the need for governments to step in, who may be powerless to do so if the culture wars continue to escalate. We are in their hands. 
 
 
 
