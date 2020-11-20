@@ -19,6 +19,8 @@ There is also the concept of signalling, which is about confirming which side yo
 
 ![](https://imgs.xkcd.com/comics/duty_calls.png)
 
+**xkcd - Duty Calls - https://xkcd.com/386/**
+
 This means a lot of online 'discussion' is essentially useless for aims of changing actual points of view or practical change of policy, and is more for the benefit of the participants self-identity.  What may be worse is that a published position on social media may replace actual real action to address the underlying issue. Brands advertising their diversity in adverts but not actually hiring or paying minorities the same wage is one example, which helps fuel the distrust that the other side doesn’t actually believe in the cause, and are just taking positions for selfish image reasons. 
 
 ## Non-Aggression Pacts in Culture Wars
@@ -44,6 +46,8 @@ Add to this mix third parties who have an interest in destroying democratic inst
 To help identify this, and as a bookmark on current trends that rapidly change, the list below will attempt to document phrases and concepts that each side of the culture wars uses.  The easiest source for these is to look at what the sock puppet accounts are saying, which are at the moment fairly easy to identify.  
 
 ![](/images/posts/sockpuppets.png)
+
+**[From nortonlifelock.com study linked above](https://www.nortonlifelock.com/blogs/research-group/identifying-sockpuppet-accounts-social-media)**
 
 ## Culture War Weapons
 
