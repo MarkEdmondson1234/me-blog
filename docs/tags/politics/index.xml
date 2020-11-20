@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>politics on Mark Edmondson - Personal Blog</title>
+    <link>http://www.markedmondson.me/tags/politics/</link>
+    <description>Recent content in politics on Mark Edmondson - Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Mark Edmondson - All rights reserved</copyright>
+    <lastBuildDate>Fri, 20 Nov 2020 16:14:28 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.markedmondson.me/tags/politics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Survey of Culture War Weapons: How Social Media Harms Consensus Politics</title>
+      <link>http://www.markedmondson.me/posts/culture-war-weapon-survey/</link>
+      <pubDate>Fri, 20 Nov 2020 16:14:28 +0200</pubDate>
+      
+      <guid>http://www.markedmondson.me/posts/culture-war-weapon-survey/</guid>
+      <description>Culture wars have always been around, but nowadays social media has enabled the ability to scale them out to an unprecedented degree. The structure of how content is shared means exposure is possible on a global scale, as well as there being more data available on how consumers can be influenced. The values of the (American) social media platforms also feature, influenced by their own economics, philosophies and governments.</description>
+    </item>
+    
+  </channel>
+</rss>

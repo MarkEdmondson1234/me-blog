@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Mark Edmondson - All rights reserved</copyright>
-    <lastBuildDate>Mon, 19 Oct 2020 11:14:28 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2020 16:14:28 +0200</lastBuildDate>
     
 	<atom:link href="http://www.markedmondson.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>culture</title>
       <link>http://www.markedmondson.me/tags/culture/</link>
-      <pubDate>Mon, 19 Oct 2020 11:14:28 +0200</pubDate>
+      <pubDate>Fri, 20 Nov 2020 16:14:28 +0200</pubDate>
       
       <guid>http://www.markedmondson.me/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>politics</title>
+      <link>http://www.markedmondson.me/tags/politics/</link>
+      <pubDate>Fri, 20 Nov 2020 16:14:28 +0200</pubDate>
+      
+      <guid>http://www.markedmondson.me/tags/politics/</guid>
       <description></description>
     </item>
     
