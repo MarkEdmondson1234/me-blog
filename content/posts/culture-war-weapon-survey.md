@@ -128,7 +128,7 @@ Naturally I do not necessarily agree with any of the quotes, they are used as il
 
 * **Deep state** - Conspiracy that the civil service systems of government operate without democractic oversight, for the takeover of the world, often including pedophile rings.  In my time this has drifted from Left to Right.
 
-> She is a puppet of the deep state, why can’t you and others see that? Do you legitimately think he’s going to be in control?
+> She is a puppet of the deep state, why can’t you and others see that? Do you legitimately think she’s going to be in control?
 
 * **Antifa/BLM Terrorist** - Anti-fascists and Black Lives Matters are regarded as enemies of the state disrupting the established order
 * **Poor are Workshy free brigade**- Socialism creates a society of people dependant on state benefits
@@ -148,15 +148,15 @@ From the list above, it strikes me how contradictory and fluid some of the terms
 
 I don’t know, but I feel I know what we shouldn’t. I guess amplifying the voices of center politics and stressing consensus is an end goal, but how to get there will be difficult. How do we come to trust each other more?
 
-American comments on UK/Danish politics are typically very off-base as they are only thought of in the context of the USA - likewise my comments on the USA will have UK/Danish bias so I will leave that to them.
+American comments on UK/Danish politics are typically very off-base as they are only thought of in the context of the USA - likewise my comments on USA politics will have UK/Danish bias so I will leave that for US citizens to work out.  My thoughts may only work in my region.
 
 ### Representative politics
 
-At the end of the day I think all divisions boil down to the rich vs the poor, so decreasing the wealth gap will help divisive politics having fertile ground.  
+At the end of the day I think all divisions boil down to the rich vs the poor, so decreasing the wealth gap will help divisive politics not to have fertile ground to sow their distrust.  If everyone can get to a stage of equal opportunity, and health and basic living conditions are met then there is less to be angry about.  I do believe this is possible without it being a zero-sum game destroying the rich.
 
-Having better representation such as proportional representation is also a step in the right direction, to help get non-represented voices heard before they get angry.  For instance, UKIP voters never had many MPs despite having a large percentage of the vote, which drove support towards Brexit. 
+Having better representation such as proportional representation is also a step in the right direction, to help get non-represented voices heard before they get angry.  For instance, UKIP voters never had many MPs despite having a large percentage of the vote, which drove support towards Brexit. Gerrymandering voting districts also tend to favour encumbent systems.  Work should be towards fair equal power of the votes which I think Denmark does much better than the UK - people think their votes make a difference here whereas the UK has deep cynicism. 
 
-I'm with Popper thinking that the [aim of democracy is to reduce concentration of power](https://youtu.be/XhZtqwhIQI4?t=1315), so anything to help break the duopoly of politics should also naturally help with polarization of politics. A big bureaucratic state becomes too powerful and people start resenting their powerlessness.  A minority of very rich people also represents a concentration of power, so whilst keeping the opportunities levelling out the wealth gap would also serve to avoid too much power concentration. 
+I'm with Popper thinking that the [aim of democracy is to reduce concentration of power](https://youtu.be/XhZtqwhIQI4?t=1315), so anything to help break duopoly of politics must naturally help with polarization. A big bureaucratic state becomes too powerful and people start resenting their powerlessness.  A minority of very rich people also represents a concentration of power, so keeping the opportunities levelling out the wealth gap would also serve to avoid too much power with too few. 
 
 ### Social media (self?) regulation
 
