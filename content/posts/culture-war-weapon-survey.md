@@ -9,35 +9,37 @@ tags: ["culture", "politics"]
 
 Culture wars have always been around, but nowadays social media has enabled the ability to scale them out to an unprecedented degree.  The structure of how content is shared means exposure is possible on a global scale, as well as there being more data available on how consumers can be influenced.  The [values of the (American) social media platforms](https://www.markedmondson.me/posts/american-cultural-imperialism/) also feature, influenced by their own economics, philosophies and governments.  
 
-These platforms are not healthy for political debate as I will argue below, a belief that means I work to actively avoid politics on those platforms by unfollowing or blocking political activity.  However, I sacrifice the impression that I don't care about those issues, so this article explains some of my reasons on why I think social media and politics are a bad combination.
+These platforms are not healthy for political debate as I will argue below, a belief that means I work to actively avoid politics on those platforms by unfollowing or blocking political activity.  However, I sacrifice the impression that I do care about those issues, so this article explains some of my reasons on why I think social media and politics are a bad combination.
 
 ## Symptoms of a dysfunctional political debate
 
-Increased polarization of opinion is encouraged by how social media platforms engage users.  Personalised ['filter bubbles'](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles) mean that users on the platforms experience a reflection of reality that is different from others, with news only confirming their own bias.  When exposed to differing beliefs it is often framed by enraged peers denouncing its content, content that reads like a denial of an assumed objective established reality. This denial of 'reality' helps reinforce that the other side peddle in lies and perhaps more importantly that they know they are lying. Trust is destroyed along with chances to compromise.  Both sides think they hold the only Truth.
+Increased polarization of opinion is encouraged by how social media platforms engage users.  Personalised ['filter bubbles'](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles) mean that users on the platforms experience a reflection of reality that is different from others, reading news only confirming their own bias.  When exposed to differing beliefs it is often framed by enraged peers denouncing its content, content that reads like a denial of an assumed objective established reality. This denial of 'reality' helps reinforce that the other side peddle in lies and perhaps more importantly that they know they are lying. Trust is destroyed along with chances to compromise.  Both sides think they hold the only Truth.
 
-There is also the concept of signalling to help confirm what side of the culture gap you are in.  As well as combatants subscribing to positions of their own group, there is a need to strongly signal you are not associated with the enemy.  This can be achieved by publicly dismissing or attacking positions on the other side, not aiming to win the argument but only to show where you belong for your peers.  In fact, the more visibly outraged you can make the other side, the stronger the signal to your peers that you are one of them.  Many professional trollers rely on this to make an income.  
+There is also the concept of signalling, which is about confirming which side you are on.  As well as combatants subscribing to positions of their own group, there is a need to strongly signal you are not associated with the enemy.  This can be efficiently achieved by publicly dismissing or attacking positions on the other side, not aiming to win the argument but only to show where you belong.  In fact, the more visibly outraged you can make the other side, the stronger the signal to your peers that you are one of them.  Many professional trollers rely on this to make an income.  
 
 ![](https://imgs.xkcd.com/comics/duty_calls.png)
 
-This means a lot of online 'discussion' is essentially useless for aims of changing actual points of view and practical change of policy, and is more for the benefit of the participants self-identity.  What may be worse is that a published position on social media may replace actual real action to address the underlying issue. Brands advertising their diversity in adverts but not actually hiring or paying minorities the same wage is one example, which helps fuel the distrust that the other side doesn’t actually believe in the cause, and are just taking positions for selfish image reasons. 
+This means a lot of online 'discussion' is essentially useless for aims of changing actual points of view or practical change of policy, and is more for the benefit of the participants self-identity.  What may be worse is that a published position on social media may replace actual real action to address the underlying issue. Brands advertising their diversity in adverts but not actually hiring or paying minorities the same wage is one example, which helps fuel the distrust that the other side doesn’t actually believe in the cause, and are just taking positions for selfish image reasons. 
 
 ## Non-Aggression Pacts in Culture Wars
 
-I argue that engaging in these attacks are a problem in itself, as to actually further your own cause a principal must be that political compromise and listening to others point of view is a necessary step to create a stronger society for all.  Until we have the ability for everyone to freely live in personalised universes to match our newsfeeds, we must find ways to co-exist.  This is not to say that truths must always be 'other sided' with lies.  But it does demand that we examine why the other side exists beyond "they are stupid", and to identify the reasons how they arrived at that position.
+I argue that engaging in these attacks are a problem in itself, as a principal must be that political compromise and listening to others point of view is a necessary first step to create a stronger society for all.  Until we have the ability for everyone to live in personalised universes that match our newsfeeds, we must find ways to co-exist.  This is not to say that truths must always be 'other sided' with lies.  But it does demand that we examine why the other side exists beyond "they are stupid", and to identify the reasons how they arrived at that position.  Co-existence is obviously not achieved by thinking the other side is "evil" and your point of view must be imposed on them for their own self-good. 
 
-Co-existence is not achieved by thinking the other side is "evil" and your point of view must be imposed on them for their own self-good - in fact having such a view can be long-term detrimental to your cause. The default positions are encouraged to get more extreme and failure to keep up will leave you branded as a conspirator.  This has left a widening political centre that is less vocal than those on the extreme wings in the fear they will be branded as an outsider (see ['cancel culture'](https://harpers.org/a-letter-on-justice-and-open-debate/)), weakening society as minority views become louder, disregarding the silent central majority.  
+This is also not healthy for your own side. Peer policing exists and those in the centre are most at risk at not keeping up with the current party line, for which means failure to will leave you branded as a conspirator. This encourages the default positions to get more and more extreme - the Brexiteer's movement to more and more hard versions of Brexit over time is an example.
 
-Take for example the Trump and Brexit votes from 2016.  An outraged Left could not see why someone on the Right would want to vote for such disruptive changes, as they believed the majority were benefiting from the status-quo, and the media agreed.  
+This has left a widening political centre that is less vocal than those on the extreme wings in the fear they will be branded as an outsider (see ['cancel culture'](https://harpers.org/a-letter-on-justice-and-open-debate/)), weakening society as minority views become louder, disregarding the silent central majority.  
+
+Another example are the Trump and Brexit votes from 2016.  An outraged Left could not see why someone on the Right would want to vote for such disruptive changes, as they believed the majority were benefiting from the status-quo, and the media agreed.  
 
 ![](/images/posts/brexit-bremain.png)
 
 *The betting markets on Brexit before and afer the vote - by Emile Servan-Schreiber*
 
-Yet it could be said it was a failure of the Left to make those benefits available to everyone that has caused enough wide-reaching resentment for voters to reject that status-quo, and vote for any disruptive change that may or may not bring them more benefit.  Those voices should be heard, and not dismissed or shouted at until they change their mind, yet as labels of Main Stream Media and Alternative Facts show, people do not feel represented by institutions and have sought alternatives. Politicians recognise that and turn the resentment into votes. 
+Yet it could be said it was a failure of the Left to make those supposed benefits available to everyone that caused enough wide-reaching resentment for voters to reject the status-quo, and vote for any disruptive change that may or may not bring them more benefit.  Those voices should be heard, and not dismissed or shouted at until they change their mind, yet as labels of Main Stream Media and Alternative Facts show, people do not feel represented by institutions and have lost trust in them. Politicians recognise that and turn the resentment into votes, even if paradoxically they are entitled and part of the very institutions they tout as being unfit. 
 
-I also want to be clear that I think both sides take part in this war, it's not for example the innocent Left under attack by the Right.  An easy way to see that is to look at the language used by the Left at that section of society whom perhaps the Left feel should be on their side but are not.  Usually poor white people.  For them is reserved the harsh rhetoric such as rednecks, chavs, poor white trash, gammons etc. and hastens those people to feel like they are underrepresented. 
+I also want to be clear that I think both sides take part in this war: it's not for example the innocent Left defending attacks by the Right.  An easy way to see that is to look at the language used by the Left at a section of society whom perhaps the Left feel should be on their side but are not.  Usually poor white people.  For them is reserved the harsh rhetoric such as rednecks, chavs, poor white trash, gammons etc. which hastens those people to feel like they are underrepresented. 
 
-Add to this mix actions by third parties who have an interest in destroying the status quo.  Consensus weakening is being encouraged by enemies of democracy, who use the ability to automate social media reactions and the failures of the social media platforms to drive a wedge between groups, in [many cases creating sock puppet accounts on both sides of the debate](https://www.nortonlifelock.com/blogs/research-group/identifying-sockpuppet-accounts-social-media) to facilitate it.  The actual points of view are immaterial - stirring up conflict, mistrust and getting people to disengage are the win conditions.
+Add to this mix third parties who have an interest in destroying democratic institutions.  Consensus weakening is an active goal being encouraged by enemies of democracy, who use the ability to automate social media reactions and the failures of the social media platforms to police themselves to drive a wedge between online groups, in [many cases creating sock puppet accounts on both sides of the debate](https://www.nortonlifelock.com/blogs/research-group/identifying-sockpuppet-accounts-social-media) to facilitate it.  The actual points of view are immaterial - stirring up conflict, mistrust and getting people to disengage are the win conditions.
 
 To help identify this, and as a bookmark on current trends that rapidly change, the list below will attempt to document phrases and concepts that each side of the culture wars uses.  The easiest source for these is to look at what the sock puppet accounts are saying, which are at the moment fairly easy to identify.  
 
@@ -45,9 +47,9 @@ To help identify this, and as a bookmark on current trends that rapidly change, 
 
 ## Culture War Weapons
 
-This is a tough list to try to curate from a neutral, central point of view and is uncomfortable to write as it feels like it is bound to offend.  I've tried to keep it to the insults and slurs directed at the other side.  
+This is a tough list to try to curate from a neutral, central point of view and is uncomfortable to write as it feels like it is bound to piss someone off.  I've tried to keep it to the insults and slurs directed at the other side.  
 
-**I'm not naive enough to say that there are not people with extremist positions alluded to in the slurs, but my point is to label everyone on the other side to those extreme positions is the abandoning of the centre, consensus politics that is needed to improve society.**
+**I'm not naive enough to say that there are not people with extremist positions alluded to in the slurs, but my point is to amplify and label everyone on the 'other side' to those extreme positions is the abandoning of the centre, consensus politics that is needed to improve society.**
 
 > Quotes are examples I've taken from social media
 
@@ -86,7 +88,13 @@ Naturally I do not necessarily agree with any of the quotes, they are used as il
 * **Victim blaming** - The right perceive that the left is too soft on criminals apart from when 
 * **Tax evader** - If you are not contributing to society via tax 
 * **Climate denier** - The Right are generally perceived as not respecting climate science as they monetarily gain from the status quo of using fossil fuels
+
+> Just a reminder that he is a coal loving climate denier.
+
 * **Mask denier** - If you are not wearing a mask, you are risking lives during a pandemic
+* **Karen** - a recent insult originally aimed at white middle class women who call the police/manager when they feel threatened by minorities even if there is nothing happening to threaten them.
+
+> The nerve of the woman to tell me to not wear T-shirt’s with profanity on them because it’s offensive.  Karen, I will wear whatever the fuck I want.
 
 ### Right weapons for use on the Left
 
