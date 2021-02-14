@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Mark Edmondson - All rights reserved</copyright>
-    <lastBuildDate>Fri, 20 Nov 2020 16:14:28 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 18:04:28 +0200</lastBuildDate>
     
 	<atom:link href="http://www.markedmondson.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>myths</title>
+      <link>http://www.markedmondson.me/tags/myths/</link>
+      <pubDate>Sun, 14 Feb 2021 18:04:28 +0200</pubDate>
+      
+      <guid>http://www.markedmondson.me/tags/myths/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science</title>
+      <link>http://www.markedmondson.me/tags/science/</link>
+      <pubDate>Sun, 14 Feb 2021 18:04:28 +0200</pubDate>
+      
+      <guid>http://www.markedmondson.me/tags/science/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>culture</title>
@@ -36,15 +54,6 @@
       <pubDate>Sun, 29 Dec 2019 12:16:28 +0200</pubDate>
       
       <guid>http://www.markedmondson.me/tags/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>science</title>
-      <link>http://www.markedmondson.me/tags/science/</link>
-      <pubDate>Sun, 05 May 2019 20:04:28 +0200</pubDate>
-      
-      <guid>http://www.markedmondson.me/tags/science/</guid>
       <description></description>
     </item>
     

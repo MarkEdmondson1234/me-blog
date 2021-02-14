@@ -61,7 +61,7 @@ Naturally I do not necessarily agree with any of the quotes, they are used as il
 
 ### Left weapons for use on the Right
 
-* **Stupid racist** - A problem when discussing immigration policies is the automatic labelling or people who ddon't want free movement as racist. When towns with rapidly changing populations of different cultures had integration problems, expressing concerns but to be shut down as being racist undoubtedly drove resentment.
+* **Stupid racist** - A problem when discussing immigration policies is the automatic labelling or people who don't want free movement as racist. When towns with rapidly changing populations of different cultures had integration problems, expressing concerns but to be shut down as being racist undoubtedly drove resentment.
 
 > That leader is a dysfunctional, philandering, profiteering, misleading, embarrassing, alcoholic, racist slob & that applies to his imbecilic cohorts too
 
